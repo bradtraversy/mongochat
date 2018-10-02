@@ -16,4 +16,4 @@ npm start
 ```
 
 ## Run App
-Open inedx.html
+Open index.html
